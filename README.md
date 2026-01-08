@@ -19,7 +19,7 @@ Many aspiring security professionals struggle with the gap between theory and pr
 
 The repository emphasizes hands-on learning through vulnerability discovery, privilege escalation, web exploitation, and defensive analysis - all with reproducible steps.
 
-🔗 Check it out on GitHub: [Your GitHub Link]
+🔗 Check it out on GitHub: github.com/theepreacher-ai
 💼 More projects: https://theepreacher-ai.github.io/francis-kuria.github.io
 
 #Cybersecurity #CTF #InfoSec #TechnicalWriting #Learning #OpenSource #HackTheBox #TryHackMe
@@ -34,7 +34,7 @@ The repository emphasizes hands-on learning through vulnerability discovery, pri
 
 A collection of writeups, tools, and reproducible labs to help newcomers learn practical security skills.
 
-GitHub: [link]
+GitHub: github.com/theepreacher-ai
 
 2/7 **The Problem:**
 CTF challenges are amazing for learning, but most writeups assume too much knowledge. Beginners get stuck on setup, tooling, or missing context.
@@ -69,7 +69,7 @@ Shell | Python | Bash | Docker
 Everything is open source and free to use. Contribute, fork, learn - that's what it's for.
 
 7/7 If you're learning cybersecurity or mentoring someone who is, check it out:
-🔗 GitHub: [link]
+🔗 GitHub: github.com/theepreacher-ai
 🌐 Portfolio: https://theepreacher-ai.github.io/francis-kuria.github.io
 
 Let me know what challenges you'd like to see next! 👇
